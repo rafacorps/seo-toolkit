@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env.local
+.env*.local
+seo.db
+seo.db-*
+npm-debug.log*
+.DS_Store
